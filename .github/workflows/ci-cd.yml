@@ -16,4 +16,4 @@ jobs:
     - name: Build and Deploy
       run: |
         mkdir public
-        cp ./index.html public/
+        cp ./Index.html public/
